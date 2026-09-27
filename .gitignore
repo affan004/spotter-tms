@@ -24,3 +24,8 @@ desktop.ini
 *.env
 *.env.*
 .env
+
+# Personal presentation script & assessment materials (local only)
+steps.md
+TMS info/
+TMS info
