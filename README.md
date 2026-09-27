@@ -9,8 +9,6 @@
 > An enterprise-grade Transportation Management System (TMS) built for property-carrying commercial vehicle operations. Features automated **FMCSA 49 CFR Part 395 compliance calculations**, **deadhead repositioning routing**, an **interactive Leaflet route map with truck animation**, **turn-by-turn navigation instructions**, and an **SVG 24-Hour Digital ELD Log Sheet** with multi-day export.
 
 - 🌐 **Live Web Application:** [https://spotter-ai-tms.vercel.app](https://spotter-ai-tms.vercel.app)
-- 📹 **Loom Video Presentation Guide:** [steps.md](steps.md)
-
 ---
 
 ## 🌟 Key Features
